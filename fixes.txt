@@ -3,3 +3,8 @@ fixed another bug.
 
 added footer
 added header for new title.
+one more bug detected and fixed.
+fourth bug fixed.
+fifth bug spotted and fixed.
+
+new added bug and fixed
