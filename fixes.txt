@@ -1,3 +1,4 @@
 i am fix file for bug-fixing
 fixed another bug.
 one more bug detected and fixed.
+fourth bug fixed.
