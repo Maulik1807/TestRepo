@@ -1,2 +1,5 @@
 i am fix file for bug-fixing
 fixed another bug.
+
+added footer
+added header for new title.
