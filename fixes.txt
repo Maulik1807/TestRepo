@@ -2,3 +2,5 @@ i am fix file for bug-fixing
 fixed another bug.
 
 add another marketing message action
+
+add footer note
